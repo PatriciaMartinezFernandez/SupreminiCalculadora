@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Supremini Calculadora</string>
+    <string name="app_name">Supermini Calculadora</string>
+    <string name="txtNum1">Número 1:</string>
+    <string name="txtNum2">Número 2:</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnMultiplicacion">x</string>
+    <string name="btnDivision">/</string>
+    <string name="btnBorrar">BORRAR</string>
+    <string name="txtNumEntero">Introduzca un número entero</string>
+
+
 </resources>
